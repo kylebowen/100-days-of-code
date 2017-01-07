@@ -23,3 +23,11 @@
 **Thoughts:** Went longer than my standard hour today because I had some unexpected free time. Learning to decipher the Rails error messages while TDDing. Helps to keep the application flow in mind as I'm working. Found myself getting ahead when making changes to get the tests to pass- I'd edit the controller before adding a route and then the test would still fail. Then I'd have to go back and undo my changes to the controller before getting the test to pass so that I'd be able to see the right error message once I added the right route. Possibly overkill, but the discipline helps me learn faster in the long run.
 
 **Link to work:** [Sample App Repo](https://github.com/kylebowen/sample_app)
+
+### Day 3: January 6, 2017
+
+**Today's Progress:** Finished up the branch with a few static pages. Set up Guard to help with automatic testing.
+
+**Thoughts:** Spent most of my time working through Chapter 4 of the Ruby on Rails Tutorial which was looking at core Ruby functionality. Mostly basic review that didn't get committed to the app, but I did it anyway to develop more muscle-memory in my fingers by actually typing out all the exercises in the Rails Console. Frustrating to not get more done, but I'll be able to make more progress over the weekend.
+
+**Link to work:** [Sample App Repo](https://github.com/kylebowen/sample_app/commits/master)
