@@ -31,3 +31,11 @@
 **Thoughts:** Spent most of my time working through Chapter 4 of the Ruby on Rails Tutorial which was looking at core Ruby functionality. Mostly basic review that didn't get committed to the app, but I did it anyway to develop more muscle-memory in my fingers by actually typing out all the exercises in the Rails Console. Frustrating to not get more done, but I'll be able to make more progress over the weekend.
 
 **Link to work:** [Sample App Repo](https://github.com/kylebowen/sample_app/commits/master)
+
+### Day 4: January 7, 2017
+
+**Today's Progress:** Added styling to sample_app via Bootstrap and Sass. Added a Header and Footer using Partials. Started using Named Routes and set up my first Integration test.
+
+**Thoughts:** Tired. Busy day, so I didn't start until 11:30pm. Got in the zone and kept going until 1:30am. Going to regret that tomorrow... (today?)
+
+**Link to work:** [Sample App (today's commit)](https://github.com/kylebowen/sample_app/commit/df6787bb5cd2e1313be296ae368e3409660fc3a3)
