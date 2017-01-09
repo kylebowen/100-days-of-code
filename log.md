@@ -39,3 +39,11 @@
 **Thoughts:** Tired. Busy day, so I didn't start until 11:30pm. Got in the zone and kept going until 1:30am. Going to regret that tomorrow... (today?)
 
 **Link to work:** [Sample App (today's commit)](https://github.com/kylebowen/sample_app/commit/df6787bb5cd2e1313be296ae368e3409660fc3a3)
+
+### Day 5: January 8, 2017
+
+**Today's Progress:** Created a User model and test-drove addition of data validations on User.
+
+**Thoughts:** Really looking forward to finishing this tutorial in a week or two and starting on my own projects. Feels like I'm going really slow with all the reading necessary to follow the tutorial, but I realize I'm probably going faster than I think. Still learning a bunch by going through the process.
+
+**Link to work:** [Sample App (today's commit)](https://github.com/kylebowen/sample_app/commit/9a2480f64711ea1658a8dcb778b9ff6e95bd2bb6)
