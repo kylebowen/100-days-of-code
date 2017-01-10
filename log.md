@@ -47,3 +47,19 @@
 **Thoughts:** Really looking forward to finishing this tutorial in a week or two and starting on my own projects. Feels like I'm going really slow with all the reading necessary to follow the tutorial, but I realize I'm probably going faster than I think. Still learning a bunch by going through the process.
 
 **Link to work:** [Sample App (today's commit)](https://github.com/kylebowen/sample_app/commit/9a2480f64711ea1658a8dcb778b9ff6e95bd2bb6)
+
+### Day 6: January 9, 2017
+
+**Today's Progress:** Added a basic User page with Gravatar image integration. Added secure passwords to users hashed through bcrypt.
+
+**Thoughts:** It's crazy the stuff that Rails includes off the bat. Secure passwords and stuff. Got in all my coding on the train today. Progress still feels slow and doesn't seem very hard. Tutorial said it would be ramping up in difficulty very soon, so we'll see how it goes over the next few days.
+
+**Link to work:** [Sample App (commits overview)](https://github.com/kylebowen/sample_app/commits/sign-up)
+
+### Day X: [Month] XX, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:** []()
