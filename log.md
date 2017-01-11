@@ -56,6 +56,14 @@
 
 **Link to work:** [Sample App (commits overview)](https://github.com/kylebowen/sample_app/commits/sign-up)
 
+### Day 7: January 10, 2017
+
+**Today's Progress:** Finished adding User signup functionality. Configured sample_app to use SSL and Puma webserver in production on Heroku.
+
+**Thoughts:** Picked up some speed today. Found some success in trying to get ahead of the tutorial and then using it to check my work. There were times today where I disagreed with some of the testing recommendations. The author said that testing for a 'success' flash message on signup was too brittle and to just test to make sure the flash message wasn't empty, but I was able to replicate a situation where the test passed while there was no flash message. I set up the tests how I want and figure I'll learn a good lesson if/when I run into pain from my 'brittle' tests. =)
+
+**Link to work:** [Finish user signup](https://github.com/kylebowen/sample_app/commit/c35726bea06b4fe00b2a4b08e77cbae789a62160), [Use SSL and Puma webserver in production](https://github.com/kylebowen/sample_app/commit/b3abb23ab3ca4e69f5d0cc640492726294443cc5)
+
 ### Day X: [Month] XX, 2017
 
 **Today's Progress:**
