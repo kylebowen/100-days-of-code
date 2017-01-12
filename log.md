@@ -64,6 +64,14 @@
 
 **Link to work:** [Finish user signup](https://github.com/kylebowen/sample_app/commit/c35726bea06b4fe00b2a4b08e77cbae789a62160), [Use SSL and Puma webserver in production](https://github.com/kylebowen/sample_app/commit/b3abb23ab3ca4e69f5d0cc640492726294443cc5)
 
+### Day 8: January 11, 2017
+
+**Today's Progress:** Today I implemented a basic login system. It allows users who have signed up to actually log in and out of the app! Plus, the nav-bar links change depending on your logged-in status.
+
+**Thoughts:** Nothing profound today. Finishing earlier because I've been lacking in sleep lately. Still exciting to be making visible progress. Looking forward to my own projects once this is finished. I've got a few in mind that I'm excited to work on.
+
+**Link to work:** [Sample_app basic login](https://github.com/kylebowen/sample_app/commit/c61c78b9370527f87c13f324bbdb10435af7695f)
+
 ### Day X: [Month] XX, 2017
 
 **Today's Progress:**
