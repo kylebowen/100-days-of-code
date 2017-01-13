@@ -72,6 +72,14 @@
 
 **Link to work:** [Sample_app basic login](https://github.com/kylebowen/sample_app/commit/c61c78b9370527f87c13f324bbdb10435af7695f)
 
+### Day 9: January 12, 2017
+
+**Today's Progress:** Today I upgraded the login system to use cookies and add an optional 'remember me' checkbox.
+
+**Thoughts:** I'm starting to feel the increase in difficulty as the tutorial progresses. Definitely had to read a few sections multiple times to understand what was going on or why we were doing something. I'd heard that this tutorial was great because it used testing so much and was a great introduction to TDD. I'm finding that we don't test nearly as much as I'd prefer. I may have been spoiled by exercism.io with regard to test-driving my development.
+
+**Link to work:** [Sample_app advanced login](https://github.com/kylebowen/sample_app/commit/c645cfa8b0436e66ec41c1c1090ba420d1fa781e)
+
 ### Day X: [Month] XX, 2017
 
 **Today's Progress:**
