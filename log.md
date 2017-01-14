@@ -80,6 +80,14 @@
 
 **Link to work:** [Sample_app advanced login](https://github.com/kylebowen/sample_app/commit/c645cfa8b0436e66ec41c1c1090ba420d1fa781e)
 
+### Day 10: January 13, 2017
+
+**Today's Progress:** Factored out a form partial for the signup and settings pages.
+
+**Thoughts:** We went to visit with some of my wife's family today, so it was tough to squeeze in my time. I tried working there after dinner, but couldn't accomplish much. Finished up my coding time when we got home. Excited for tomorrow's when I'll actually make the user edit form functional!
+
+**Link to work:** [Sample_app form partial refactoring](https://github.com/kylebowen/sample_app/commit/ef98b772b20f554c46fd2c8e6fd6f4dfb80cf521)
+
 ### Day X: [Month] XX, 2017
 
 **Today's Progress:**
