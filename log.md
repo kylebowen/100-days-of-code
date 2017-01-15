@@ -88,6 +88,14 @@
 
 **Link to work:** [Sample_app form partial refactoring](https://github.com/kylebowen/sample_app/commit/ef98b772b20f554c46fd2c8e6fd6f4dfb80cf521)
 
+### Day 11: January 14, 2017
+
+**Today's Progress:** Added authorization checks for editing and updating users.
+
+**Thoughts:** Feeling a little frustrated today. Had planned to spend several hours working, but other obligations came up to fill the day. Still managed to get in my time, so that's a plus. The tutorial I'm following does a good job of walking you through what you need to do, but it's lacking in the explanation for _why_ that's what you need to do. Definitely feeling like I'm in over my head, but keep going...
+
+**Link to work:** [Sample_app authorization checks](https://github.com/kylebowen/sample_app/commit/64e649fe7bb3ad193a26c2249f0b0cec27d5cc37)
+
 ### Day X: [Month] XX, 2017
 
 **Today's Progress:**
