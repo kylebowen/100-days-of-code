@@ -96,6 +96,14 @@
 
 **Link to work:** [Sample_app authorization checks](https://github.com/kylebowen/sample_app/commit/64e649fe7bb3ad193a26c2249f0b0cec27d5cc37)
 
+### Day 12: January 15, 2017
+
+**Today's Progress:** Added a Users index with pagination. Using the Faker and Will_Paginate gems to generate data.
+
+**Thoughts:** Lazy day of coding while watching my wife play 'A Link to the Past' on Wii. Yay family bonding! =)
+
+**Link to work:** [Sample_app adding Users index with pagination](https://github.com/kylebowen/sample_app/commit/e2aa58d21ceabd0202a0dd94f34954af112aaf68)
+
 ### Day X: [Month] XX, 2017
 
 **Today's Progress:**
