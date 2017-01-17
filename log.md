@@ -104,10 +104,10 @@
 
 **Link to work:** [Sample_app adding Users index with pagination](https://github.com/kylebowen/sample_app/commit/e2aa58d21ceabd0202a0dd94f34954af112aaf68)
 
-### Day X: [Month] XX, 2017
+### Day 13: January 16, 2017
 
-**Today's Progress:**
+**Today's Progress:** Added admins with the ability to delete other users.
 
-**Thoughts:**
+**Thoughts:** Just continuing to work my way through. Tired tonight. First night I've been ready to move on at the 1-hour mark. Two weeks: done!
 
-**Link to work:** []()
+**Link to work:** [Sample_app adding admins with ability to destroy users](https://github.com/kylebowen/sample_app/commit/c396382f3db525d1cfb2fedd580d8006a8de81a9)
