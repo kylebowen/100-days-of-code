@@ -111,3 +111,11 @@
 **Thoughts:** Just continuing to work my way through. Tired tonight. First night I've been ready to move on at the 1-hour mark. Two weeks: done!
 
 **Link to work:** [Sample_app adding admins with ability to destroy users](https://github.com/kylebowen/sample_app/commit/c396382f3db525d1cfb2fedd580d8006a8de81a9)
+
+### Day 14: January 17, 2017
+
+**Today's Progress:** Added account activations for users. Users are now sent an email upon signup with a link they must click to activate their account. Emails sent through a SendGrid addon from Heroku.
+
+**Thoughts:** Plugging away. Feel like I'm riding the line of 'stuff that makes sense'. From what I hear, that's a pretty good place to be. =) I kinda think my git commits are too spread-out, but including a link to my day's work here incentivizes me to just do one big commit for the day.
+
+**Link to work:** [Sample_app account activations 1](https://github.com/kylebowen/sample_app/commit/d61954be2b966d0c67f5186cd322cee3cd3e605c) [Sample_app account activations 2](https://github.com/kylebowen/sample_app/commit/768ce02232e99a369115b68ca576e615d3c823b5)
