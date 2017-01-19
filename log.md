@@ -119,3 +119,11 @@
 **Thoughts:** Plugging away. Feel like I'm riding the line of 'stuff that makes sense'. From what I hear, that's a pretty good place to be. =) I kinda think my git commits are too spread-out, but including a link to my day's work here incentivizes me to just do one big commit for the day.
 
 **Link to work:** [Sample_app account activations 1](https://github.com/kylebowen/sample_app/commit/d61954be2b966d0c67f5186cd322cee3cd3e605c) [Sample_app account activations 2](https://github.com/kylebowen/sample_app/commit/768ce02232e99a369115b68ca576e615d3c823b5)
+
+### Day 15: January 18, 2017
+
+**Today's Progress:** Added the ability to do password resets.
+
+**Thoughts:** Still a bit confused on why sometimes I used 'password_reset_url' and other times used 'password_resets_url'. I think it has something to do with which controller action it was prefixed by, but not totally sure? Also, my hands are tired because I'm not used to typing that much. I type out all the code instead of cutting-and-pasting to build up muscle-memory. I'm still getting use to using so many [ { = } ] _ +
+
+**Link to work:** [Sample_app adding password resets](https://github.com/kylebowen/sample_app/commit/c53279ccf7396e8ee71d36e545a81483fcd2e07d)
