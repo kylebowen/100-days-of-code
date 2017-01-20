@@ -127,3 +127,11 @@
 **Thoughts:** Still a bit confused on why sometimes I used 'password_reset_url' and other times used 'password_resets_url'. I think it has something to do with which controller action it was prefixed by, but not totally sure? Also, my hands are tired because I'm not used to typing that much. I type out all the code instead of cutting-and-pasting to build up muscle-memory. I'm still getting use to using so many [ { = } ] _ +
 
 **Link to work:** [Sample_app adding password resets](https://github.com/kylebowen/sample_app/commit/c53279ccf7396e8ee71d36e545a81483fcd2e07d)
+
+### Day 16: January 19, 2017
+
+**Today's Progress:** Added microposts. Which are like Tweets, except without the copyright infringement.
+
+**Thoughts:** Got my time in today. Had a bunch going on so I don't feel like I was as productive as I have been, but some days are like that.
+
+**Link to work:** [Sample_app adding microposts](https://github.com/kylebowen/sample_app/commit/e4af884e287f5fc373252af42b06ada6e85c9de0)
