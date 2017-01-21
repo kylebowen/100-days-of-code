@@ -135,3 +135,11 @@
 **Thoughts:** Got my time in today. Had a bunch going on so I don't feel like I was as productive as I have been, but some days are like that.
 
 **Link to work:** [Sample_app adding microposts](https://github.com/kylebowen/sample_app/commit/e4af884e287f5fc373252af42b06ada6e85c9de0)
+
+### Day 17: January 20, 2017
+
+**Today's Progress:** Added the ability for users to create and destroy their microposts. Also added a 'feed' of microposts to the Home and User pages.
+
+**Thoughts:** Super busy day at work with the Inauguration today. Felt really tired and thought I'd scrape in my hour and take an easy day. Alas, my brain didn't go along with that plan. Got a second wind after dinner and worked for a few hours. Ran into some serious troubleshooting where the Home page went blank suddenly and it took almost an hour to realize I'd just forgotten 2 'equal-signs' in the .erb template. Don't ever look down on people for taking a long time to notice typo's, Future Kyle!
+
+**Link to work:** [Sample_app micropost feed/create/delete](https://github.com/kylebowen/sample_app/commit/0701c4739df6645829b7411cefc0b8902b7f95f5)
