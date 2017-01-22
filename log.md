@@ -143,3 +143,11 @@
 **Thoughts:** Super busy day at work with the Inauguration today. Felt really tired and thought I'd scrape in my hour and take an easy day. Alas, my brain didn't go along with that plan. Got a second wind after dinner and worked for a few hours. Ran into some serious troubleshooting where the Home page went blank suddenly and it took almost an hour to realize I'd just forgotten 2 'equal-signs' in the .erb template. Don't ever look down on people for taking a long time to notice typo's, Future Kyle!
 
 **Link to work:** [Sample_app micropost feed/create/delete](https://github.com/kylebowen/sample_app/commit/0701c4739df6645829b7411cefc0b8902b7f95f5)
+
+### Day 18: January 21, 2017
+
+**Today's Progress:** Added image uploading option to microposts. Set up an AWS account with an S3 bucket.
+
+**Thoughts:** So much troubleshooting! So exhausted. I finally got image uploading to work in production, but it involved a good bit of Google-Fu. AWS is not easy to set up and the access management system is not what I'd call 'beginner-friendly'. Glad to be done. Hoping to finish the app tomorrow, but we'll see how it goes.
+
+**Link to work:** [Sample_app image uploading](https://github.com/kylebowen/sample_app/commit/a5563171d0efb0d154c3316b2c4cc24f19d6f2a2)
