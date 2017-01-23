@@ -151,3 +151,11 @@
 **Thoughts:** So much troubleshooting! So exhausted. I finally got image uploading to work in production, but it involved a good bit of Google-Fu. AWS is not easy to set up and the access management system is not what I'd call 'beginner-friendly'. Glad to be done. Hoping to finish the app tomorrow, but we'll see how it goes.
 
 **Link to work:** [Sample_app image uploading](https://github.com/kylebowen/sample_app/commit/a5563171d0efb0d154c3316b2c4cc24f19d6f2a2)
+
+### Day 19: January 22, 2017
+
+**Today's Progress:** Added Relationships so that Users can follow other Users.
+
+**Thoughts:** Busy day. Managed to squeeze in my hour. Wanted to put in more time and finish this today, but life did not work out that way. Keeping the streak alive...
+
+**Link to work:** [Sample_app add Relationships](https://github.com/kylebowen/sample_app/commit/0df14cf07bf8e147246c9116dba1063217539901)
