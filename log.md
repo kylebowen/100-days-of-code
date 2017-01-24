@@ -159,3 +159,11 @@
 **Thoughts:** Busy day. Managed to squeeze in my hour. Wanted to put in more time and finish this today, but life did not work out that way. Keeping the streak alive...
 
 **Link to work:** [Sample_app add Relationships](https://github.com/kylebowen/sample_app/commit/0df14cf07bf8e147246c9116dba1063217539901)
+
+### Day 20: January 23, 2017
+
+**Today's Progress:** Added a (non-functional) 'follow/unfollow' button to user profiles. Added pages to view followers/following.
+
+**Thoughts:** Plugging away. Been at it for 3 weeks now. Only 15-ish to go! It's actually really exciting when I put it that way. I can hardly wait to see what I can get built in that time. Only a couple days of work left on this tutorial/project. Time to really pick what to work on next!
+
+**Link to work:** [Sample_app following/followers pages](https://github.com/kylebowen/sample_app/commit/dd3a02b0430aef2018dd9e4d90f1528ed09a33fe)
