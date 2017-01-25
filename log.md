@@ -167,3 +167,11 @@
 **Thoughts:** Plugging away. Been at it for 3 weeks now. Only 15-ish to go! It's actually really exciting when I put it that way. I can hardly wait to see what I can get built in that time. Only a couple days of work left on this tutorial/project. Time to really pick what to work on next!
 
 **Link to work:** [Sample_app following/followers pages](https://github.com/kylebowen/sample_app/commit/dd3a02b0430aef2018dd9e4d90f1528ed09a33fe)
+
+### Day 21: January 24, 2017
+
+**Today's Progress:** Added functionality to the 'follow/unfollow' button and a 'feed' of posts on the Home page. Finished the Rails Tutorial!
+
+**Thoughts:** Finished the Rails Tutorial tonight. Snuck up on me there! Got a new project set up to start on tomorrow. Still a lot that I'm hazy on when it comes to building apps, but I'll just keep on working and learning. =) If I can keep up this rate, I'll have 4 more apps done by the end of the 100 Days. I'll be happy with just 1 or 2 though- we'll see how complex they get. Also, I'm going to need to start getting into Javascript...
+
+**Link to work:** [Sample_app Code](https://github.com/kylebowen/sample_app) [Sample_app Live Site](https://dry-sands-22040.herokuapp.com/)
