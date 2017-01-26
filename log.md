@@ -175,3 +175,11 @@
 **Thoughts:** Finished the Rails Tutorial tonight. Snuck up on me there! Got a new project set up to start on tomorrow. Still a lot that I'm hazy on when it comes to building apps, but I'll just keep on working and learning. =) If I can keep up this rate, I'll have 4 more apps done by the end of the 100 Days. I'll be happy with just 1 or 2 though- we'll see how complex they get. Also, I'm going to need to start getting into Javascript...
 
 **Link to work:** [Sample_app Code](https://github.com/kylebowen/sample_app) [Sample_app Live Site](https://dry-sands-22040.herokuapp.com/)
+
+### Day 22: January 25, 2017
+
+**Today's Progress:** Started work on my next project. It's going to be an app to help when my team plays games during our meetings at work. Today I initialized up a new Rails app, started sketching a basic wireframe, and put together some User Stories on Trello.
+
+**Thoughts:** A fresh start is nice. I realize that a good chunk of what this app will entail is much the same as the Rails Tutorial app that I just finished, so I'll likely still refer to it now and then if I have questions. Will continue to add new sources for reference as well. Got some good help from the official Rails Guides on Routing syntax as I started back up.
+
+**Link to work:** [Team Awesome Gaming app](https://github.com/kylebowen/team-awesome-gaming)
