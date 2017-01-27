@@ -183,3 +183,11 @@
 **Thoughts:** A fresh start is nice. I realize that a good chunk of what this app will entail is much the same as the Rails Tutorial app that I just finished, so I'll likely still refer to it now and then if I have questions. Will continue to add new sources for reference as well. Got some good help from the official Rails Guides on Routing syntax as I started back up.
 
 **Link to work:** [Team Awesome Gaming app](https://github.com/kylebowen/team-awesome-gaming)
+
+### Day 23: January 26, 2017
+
+**Today's Progress:** Added a few more User Stories to the backlog. Started creating a few skeleton pages in the app- mostly just site layout stuff.
+
+**Thoughts:** Still trying to wrap my head around how to structure some of these ideas. Not sure what should be its own model and what should just be attributes. I'll figure it out... eventually...
+
+**Link to work:** [Team Awesome Games - Update site layout](https://github.com/kylebowen/team-awesome-gaming/commit/e5b2b5eb0d51ced76afaab175dac90a593e0ea5c)
