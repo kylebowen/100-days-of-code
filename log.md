@@ -191,3 +191,11 @@
 **Thoughts:** Still trying to wrap my head around how to structure some of these ideas. Not sure what should be its own model and what should just be attributes. I'll figure it out... eventually...
 
 **Link to work:** [Team Awesome Games - Update site layout](https://github.com/kylebowen/team-awesome-gaming/commit/e5b2b5eb0d51ced76afaab175dac90a593e0ea5c)
+
+### Day 24: January 27, 2017
+
+**Today's Progress:** Switched database from SQLite3 to Postgresql in development. Added placeholder-ish text to the Static pages. Added a User model.
+
+**Thoughts:** Decided that instead of going crazy trying to plan out all of the everything that I would just do the things I know for sure need to be done until it becomes obvious what should be the next thing to work on. Is that what 'Agile' is? "I'm not sure how this is all going to work, but I know that _this_ is missing..."
+
+**Link to work:** [Team Awesome Games](https://teamawesomegames.herokuapp.com/) - [Database update](https://github.com/kylebowen/team-awesome-gaming/commit/7d3bbf9a42e27aaa16fcb572e74138603d34550c) & [Placeholder text](https://github.com/kylebowen/team-awesome-gaming/commit/b8c19f89dde183306b1788aa56072eb2961c848f)
