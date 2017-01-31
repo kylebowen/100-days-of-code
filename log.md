@@ -215,3 +215,11 @@
 **Thoughts:** Stayed up way too late and got really grumpy. Need to start pacing myself.
 
 **Link to work:** [Team](https://github.com/kylebowen/team-awesome-gaming/commit/9278fcf599cb5d4786f9dfa9c38b964650c317f3) [Awesome](https://github.com/kylebowen/team-awesome-gaming/commit/3ad2d37e5331b580ae4d8fa9b140900d41a7a5a0) [Games](https://github.com/kylebowen/team-awesome-gaming/commit/e09e770445e66e166fa80044ed4ac44f361959e7)
+
+### Day 26: January 30, 2017
+
+**Today's Progress:** Added a user login page and additional tests.
+
+**Thoughts:** Trying to test-drive this as much as possible. Didn't feel much like coding when I started, but really got in the groove after a while. Had a hard time stopping =) I decided to leave a failing test so that I know right where to start tomorrow.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/b758eda0728859917594111cbcd6d2cc198aff13)
