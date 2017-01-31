@@ -199,3 +199,19 @@
 **Thoughts:** Decided that instead of going crazy trying to plan out all of the everything that I would just do the things I know for sure need to be done until it becomes obvious what should be the next thing to work on. Is that what 'Agile' is? "I'm not sure how this is all going to work, but I know that _this_ is missing..."
 
 **Link to work:** [Team Awesome Games](https://teamawesomegames.herokuapp.com/) - [Database update](https://github.com/kylebowen/team-awesome-gaming/commit/7d3bbf9a42e27aaa16fcb572e74138603d34550c) & [Placeholder text](https://github.com/kylebowen/team-awesome-gaming/commit/b8c19f89dde183306b1788aa56072eb2961c848f)
+
+### Day 'Pass': January 28, 2017
+
+**Today's Progress:** N/A
+
+**Thoughts:** Super busy day with Life. My brain was fried by the time I sat down to do my coding. Decided to take a 'Pass' for the day.
+
+**Link to work:** N/A
+
+### Day 25: January 29, 2017
+
+**Today's Progress:** Added a basic User model. Finished sign-ups. Added SSL and tweaked Puma settings.
+
+**Thoughts:** Stayed up way too late and got really grumpy. Need to start pacing myself.
+
+**Link to work:** [Team](https://github.com/kylebowen/team-awesome-gaming/commit/9278fcf599cb5d4786f9dfa9c38b964650c317f3) [Awesome](https://github.com/kylebowen/team-awesome-gaming/commit/3ad2d37e5331b580ae4d8fa9b140900d41a7a5a0) [Games](https://github.com/kylebowen/team-awesome-gaming/commit/e09e770445e66e166fa80044ed4ac44f361959e7)
