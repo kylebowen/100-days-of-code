@@ -223,3 +223,11 @@
 **Thoughts:** Trying to test-drive this as much as possible. Didn't feel much like coding when I started, but really got in the groove after a while. Had a hard time stopping =) I decided to leave a failing test so that I know right where to start tomorrow.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/b758eda0728859917594111cbcd6d2cc198aff13)
+
+### Day 27: January 31, 2017
+
+**Today's Progress:** Added the User login logic with sessions.
+
+**Thoughts:** Still test-driving. Feels very satisfying to work through the problem on my own until I get it figured out. Had to refer out to documentation several times today, but managed to make progress by dealing with one problem at a time.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/dc5e7712b8c1d1f31f1035edaa811144126f9b11)
