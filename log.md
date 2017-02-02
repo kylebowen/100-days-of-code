@@ -231,3 +231,11 @@
 **Thoughts:** Still test-driving. Feels very satisfying to work through the problem on my own until I get it figured out. Had to refer out to documentation several times today, but managed to make progress by dealing with one problem at a time.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/dc5e7712b8c1d1f31f1035edaa811144126f9b11)
+
+### Day 28: February 1, 2017
+
+**Today's Progress:** Users can now log in and out.
+
+**Thoughts:** Still test-driving. I had included the 'SessionHelper' in the 'TestHelper' even though the Tutorial I used before didn't do that, because I couldn't think of a good reason not to. Today, I found that good reason. Testing a user's logged-out state wasn't passing even though the test looked right and manual testing verified. Turns out it was because I was using the 'real' logged_out? check from SessionHelper instead of the custom version the Tutorial used in TestHelper. Not quite sure what makes the difference, but I'm sure I'll find out sooner or later.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/239db6fc404f716065ed475b8ccc9d2f1f0291c9)
