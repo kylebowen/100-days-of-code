@@ -239,3 +239,11 @@
 **Thoughts:** Still test-driving. I had included the 'SessionHelper' in the 'TestHelper' even though the Tutorial I used before didn't do that, because I couldn't think of a good reason not to. Today, I found that good reason. Testing a user's logged-out state wasn't passing even though the test looked right and manual testing verified. Turns out it was because I was using the 'real' logged_out? check from SessionHelper instead of the custom version the Tutorial used in TestHelper. Not quite sure what makes the difference, but I'm sure I'll find out sooner or later.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/239db6fc404f716065ed475b8ccc9d2f1f0291c9)
+
+### Day 29: February 2, 2017
+
+**Today's Progress:** Worked on adding a cookie-based advanced login system, but didn't make much progress.
+
+**Thoughts:** Still attempting to test-drive, but I may be hitting the limits of either my testing knowledge or my Rails knowledge or both. I can follow the reasoning in the Tutorial on how to get there, but I can't seem to figure out how to test my way to the same solution. I'll give it one more day before I just go ahead and write the code.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/b16d7f4ffe9cbf204297ef365fbe1b5ead8470e9)
