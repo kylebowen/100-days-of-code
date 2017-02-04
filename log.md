@@ -247,3 +247,11 @@
 **Thoughts:** Still attempting to test-drive, but I may be hitting the limits of either my testing knowledge or my Rails knowledge or both. I can follow the reasoning in the Tutorial on how to get there, but I can't seem to figure out how to test my way to the same solution. I'll give it one more day before I just go ahead and write the code.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/b16d7f4ffe9cbf204297ef365fbe1b5ead8470e9)
+
+### Day 30: February 3, 2017
+
+**Today's Progress:** Finished adding the advanced login system.
+
+**Thoughts:** Finally found the error near the end of my session that was causing so many issues the last couple days. I was trying to set `session[:remember_me]` when I should have been setting `params[:session][:remember_me]`. Once I made the change, everything went smoothly. I feel like I have an inadequate understanding of `sessions` and `params` and how they work with all the 'Rails magic'. So glad for all this time coding and working on projects for helping me to discover what I need to understand better!
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/a7389961c5d1c61a4dfb1e47eb461bf4f82c6bfd)
