@@ -255,3 +255,11 @@
 **Thoughts:** Finally found the error near the end of my session that was causing so many issues the last couple days. I was trying to set `session[:remember_me]` when I should have been setting `params[:session][:remember_me]`. Once I made the change, everything went smoothly. I feel like I have an inadequate understanding of `sessions` and `params` and how they work with all the 'Rails magic'. So glad for all this time coding and working on projects for helping me to discover what I need to understand better!
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/a7389961c5d1c61a4dfb1e47eb461bf4f82c6bfd)
+
+### Day 31: February 4, 2017
+
+**Today's Progress:** Worked on the User Update page. Added tests for a few things.
+
+**Thoughts:** Starting to get a little stressed about adding the new functionality arounds Games and Scorekeeping. Hoping to start on that tomorrow and just start hacking away at the problem. I'm just not sure where to start with the structure. Maybe, instead of waiting until I have it all figured out, I can just start doing stuff and then refactor! That's weird and scary, but probably the right move?
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/796303132de76eb1377e6b1108ad5d26fdb6fa18)
