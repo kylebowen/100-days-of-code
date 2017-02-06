@@ -263,3 +263,11 @@
 **Thoughts:** Starting to get a little stressed about adding the new functionality arounds Games and Scorekeeping. Hoping to start on that tomorrow and just start hacking away at the problem. I'm just not sure where to start with the structure. Maybe, instead of waiting until I have it all figured out, I can just start doing stuff and then refactor! That's weird and scary, but probably the right move?
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/796303132de76eb1377e6b1108ad5d26fdb6fa18)
+
+### Day 32: February 5, 2017
+
+**Today's Progress:** Finished User update page. Started working on authorization and access control.
+
+**Thoughts:** No profound thoughts today. Just plugging away at this project. Going to try to knock out a ton tomorrow, but we'll see what life has in store.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/3be1040cac8a1f6219c1fba4edd45ff261b0f74e)
