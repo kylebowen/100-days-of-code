@@ -271,3 +271,11 @@
 **Thoughts:** No profound thoughts today. Just plugging away at this project. Going to try to knock out a ton tomorrow, but we'll see what life has in store.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/3be1040cac8a1f6219c1fba4edd45ff261b0f74e)
+
+### Day 33: February 6, 2017
+
+**Today's Progress:** Finished access control for update, index, and delete actions. Also added friendly-forwarding.
+
+**Thoughts:** Done with modifications to User model for now. Tomorrow begins the journey into the unknowns of keeping score and working game logic.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/39dbf4b69962ec73dd9c87eb5e9df949661fe9e6)
