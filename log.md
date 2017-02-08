@@ -279,3 +279,11 @@
 **Thoughts:** Done with modifications to User model for now. Tomorrow begins the journey into the unknowns of keeping score and working game logic.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/39dbf4b69962ec73dd9c87eb5e9df949661fe9e6)
+
+### Day 34: February 7, 2017
+
+**Today's Progress:** Added a basic scoreboard for a single user.
+
+**Thoughts:** Well, I did my first feature implementation without reference material guiding me. Feels _super_ hacked-together, but I got it working for a single user. We'll see how much it has to change in order to manage multiple users at once on the same screen. Feels good to have figured it out and got it working on my own, though.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/5a97098f46d652ba01ed7facede73260f6bde086)
