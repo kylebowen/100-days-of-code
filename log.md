@@ -287,3 +287,11 @@
 **Thoughts:** Well, I did my first feature implementation without reference material guiding me. Feels _super_ hacked-together, but I got it working for a single user. We'll see how much it has to change in order to manage multiple users at once on the same screen. Feels good to have figured it out and got it working on my own, though.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/5a97098f46d652ba01ed7facede73260f6bde086)
+
+### Day 35: February 8, 2017
+
+**Today's Progress:** Added tests for the layout of the single-user scoreboard.
+
+**Thoughts:** Don't feel like I accomplished much today, but I do have a better understanding of how some of the tests work. So _that's_ something.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/d03b776da79694b143bf76506d45102d4e034f3b)
