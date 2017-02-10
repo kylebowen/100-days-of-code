@@ -295,3 +295,11 @@
 **Thoughts:** Don't feel like I accomplished much today, but I do have a better understanding of how some of the tests work. So _that's_ something.
 
 **Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/d03b776da79694b143bf76506d45102d4e034f3b)
+
+### Day 36: February 9, 2017
+
+**Today's Progress:** No new code. =( Spent my time brainstorming and planning how in the world to make multiplayer work. Think I almost have it...
+
+**Thoughts:** Frustrating day. Got really sucked into figuring out some problems at work and used up most of my productive brain. Hope tomorrow is better spent.
+
+**Link to work:** N/A
