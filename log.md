@@ -303,3 +303,11 @@
 **Thoughts:** Frustrating day. Got really sucked into figuring out some problems at work and used up most of my productive brain. Hope tomorrow is better spent.
 
 **Link to work:** N/A
+
+### Day 37: February 10, 2017
+
+**Today's Progress:** Started adding a new model to be able to persist GameplaySessions so that they can be shared with other players.
+
+**Thoughts:** Hoping this idea works. Not convinced it will. Super frustrated and demotivated. Logically, I know I'll get past this, but it's tough going for now...
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/795738bcbb41a7a0b3530efff160f1cbb1631b40)
