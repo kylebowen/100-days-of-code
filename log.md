@@ -319,3 +319,11 @@
 **Thoughts:** Crazy day. Spent most of the day at the vet with my mom. Looks like our dog Willow has Lymphoma and might not last much longer. Starting to come down with something myself. Fever and cough. Been really discouraged the last couple days, and I need to remember that that's a fairly sure sign that I'm getting sick. Got a little done, but never enough. Looking like I may need to switch to an Action Cable implementation to really make this app do what I want, but I'm going to try starting with a jQuery/polling approach to practice implementing that as well.
 
 **Link to work:** [Team Awesome](https://github.com/kylebowen/team-awesome-gaming/commit/d8ec5a8efefcb03a07161b087834f0063325141a) [Games](https://github.com/kylebowen/team-awesome-gaming/commit/f8719166302c2fb18fc6e67ced65b9252871ad04)
+
+### Day 39: February 12, 2017
+
+**Today's Progress:** Made a tiny bit of progress adding a form to create a new play_session.
+
+**Thoughts:** It really does help to focus on just a tiny bit at a time. Spent most of today sleeping as I'm pretty sick. Didn't feel right to not code, so I worked for just a little bit. And by 'just a little bit' I mean 'about an hour'.
+
+**Link to work:** [Team Awesome Games](https://github.com/kylebowen/team-awesome-gaming/commit/9c252e5c50e8ab87f7c105c9fcde81dd99d899cb)
